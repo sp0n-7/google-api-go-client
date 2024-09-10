@@ -1,4 +1,4 @@
-module github.com/sp0n-7/api
+module github.com/sp0n-7/google-api-go-client
 
 go 1.20
 
