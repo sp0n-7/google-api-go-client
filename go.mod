@@ -1,6 +1,6 @@
-module google.golang.org/api
+module github.com/sp0n-7/api
 
-go 1.21
+go 1.20
 
 require (
 	cloud.google.com/go v0.115.1
